@@ -1,7 +1,7 @@
 # SafeVault
 # Digital Asset Manager
 
-A web-based database application for managing digital assets, built as part of a Database Systems assignment.
+A web-based database application for managing digital assets, built as a part of Database Systems course.
 
 ## Overview
 
