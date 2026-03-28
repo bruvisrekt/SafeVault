@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "username": "alice",
+      "password": "alice123",
+      "role": "owner",
+      "db_id": 1
+    },
+    {
+      "username": "bob",
+      "password": "bob123",
+      "role": "owner",
+      "db_id": 2
+    },
+    {
+      "username": "carol",
+      "password": "carol123",
+      "role": "owner",
+      "db_id": 3
+    },
+    {
+      "username": "david",
+      "password": "david123",
+      "role": "owner",
+      "db_id": 4
+    },
+    {
+      "username": "eva",
+      "password": "eva123",
+      "role": "owner",
+      "db_id": 5
+    },
+    {
+      "username": "tom",
+      "password": "tom123",
+      "role": "beneficiary",
+      "db_id": 401
+    },
+    {
+      "username": "sara",
+      "password": "sara123",
+      "role": "beneficiary",
+      "db_id": 402
+    },
+    {
+      "username": "mike",
+      "password": "mike123",
+      "role": "beneficiary",
+      "db_id": 403
+    },
+    {
+      "username": "nina",
+      "password": "nina123",
+      "role": "beneficiary",
+      "db_id": 404
+    },
+    {
+      "username": "leo",
+      "password": "leo123",
+      "role": "beneficiary",
+      "db_id": 405
+    }
+  ]
+}
