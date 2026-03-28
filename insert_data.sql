@@ -1,3 +1,4 @@
+--DO ENSURE TO COMMIT AFTER ALL INSERTIONS
 INSERT INTO account_owner (owner_id, full_name, email, phone, date_of_birth)
 SELECT 1, 'alice johnson', 'alice@email.com', '9876543210', DATE '1990-04-15'
 FROM dual WHERE NOT EXISTS (SELECT 1 FROM account_owner WHERE owner_id = 1);
